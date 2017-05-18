@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.callejas.cesar.aprendamosastronomia">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity" />
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ViewGral" />
+        <activity
+            android:name=".GamePlaneta"
+            android:screenOrientation="portrait" />
+        <activity android:name=".View_satelites" />
+        <activity android:name=".View_planetas" />
+        <activity
+            android:name=".GameFasesLuna"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GameQueGalaxia"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GamePosPlaneta"
+            android:screenOrientation="portrait" />
+        <activity android:name=".Game_mainMenu" />
+        <activity android:name=".View_galaxias" />
+        <activity
+            android:name=".GameActivity"
+            android:screenOrientation="landscape" />
+        <activity android:name=".GameShowScores" />
+        <activity
+            android:name=".VideoActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+        <activity android:name=".VideoMenu"></activity>
+    </application>
+
+</manifest>

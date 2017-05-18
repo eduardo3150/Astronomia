@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preguntas">
+        <item>¿Cuantos planetas hay en el sistema solar?</item>
+        <item>¿Como se llama nuestro satelite natural?</item>
+        <item>¿Qué son las constelaciones?</item>
+        <item>¿Qué es la Vía Láctea?</item>
+        <item>¿Cuantos tipos de galaxias hay?</item>
+        <item>¿Cuantos dias tarda la tierra en dar una vuelta al sol?</item>
+        <item>¿Cuantos planetas del sistema solar tienen anillos?</item>
+        <item>¿Cual es el planeta mas grande del sistema solar?</item>
+        <item>¿Cuál es la luna más grande en el Sistema Solar?</item>
+        <item>¿Qué es el Sol?</item>
+    </string-array>
+
+    <string-array name="respuestas1">
+        <item>8</item>
+        <item>4</item>
+        <item>46</item>
+        <item>no se</item>
+    </string-array>
+    <string name="preg1Corr">8</string>
+
+    <string-array name="respuestas2">
+        <item>La luna</item>
+        <item>La papa</item>
+        <item>Mercurio</item>
+        <item>Pluton</item>
+    </string-array>
+    <string name="preg2Corr">La luna</string>
+
+    <string-array name="respuestas3">
+        <item>Grupos de estrellas</item>
+        <item>Estrellas bebes</item>
+        <item>Agujeros negros</item>
+        <item>Conspiraciones</item>
+    </string-array>
+    <string name="preg3Corr">Grupos de estrellas</string>
+
+    <string-array name="respuestas4">
+        <item>Galaxia en la que vivimos</item>
+        <item>Donde venden lacteos</item>
+        <item>Galaxia vecina</item>
+        <item>Nebulosa en la que vivimos</item>
+    </string-array>
+    <string name="preg4Corr">Galaxia en la que vivimos</string>
+
+
+    <string-array name="respuestas5">
+        <item>4</item>
+        <item>Millones</item>
+        <item>55</item>
+        <item>98</item>
+    </string-array>
+    <string name="preg5Corr">4</string>
+
+    <string-array name="respuestas6">
+        <item>Normalmente 365 dias</item>
+        <item>30 dias</item>
+        <item>El sol gira alrededor de la tierra</item>
+        <item>400 dias terrestres</item>
+    </string-array>
+    <string name="preg6Corr">Normalmente 365 dias</string>
+
+
+    <string-array name="respuestas7">
+        <item>4</item>
+        <item>Solo saturno</item>
+        <item>2</item>
+        <item>Ninguno</item>
+    </string-array>
+    <string name="preg7Corr">4</string>
+
+
+    <string-array name="respuestas8">
+        <item>Jupiter</item>
+        <item>Mercurio</item>
+        <item>Saturno</item>
+        <item>El Sol</item>
+    </string-array>
+    <string name="preg8Corr">Jupiter</string>
+
+    <string-array name="respuestas9">
+        <item>Ganímede</item>
+        <item>La Luna</item>
+        <item>Europa</item>
+        <item>IO</item>
+    </string-array>
+    <string name="preg9Corr">Ganímede</string>
+
+
+    <string-array name="respuestas10">
+        <item>Es una estrella</item>
+        <item>Es un planeta</item>
+        <item>Es una nebulosa</item>
+        <item>Es un agujero negro</item>
+    </string-array>
+    <string name="preg10Corr">Es una estrella</string>
+
+</resources>
